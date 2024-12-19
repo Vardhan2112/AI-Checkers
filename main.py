@@ -1,4 +1,4 @@
-# Import the Game class from the GuiHandler module and the Bot class from the gamebot module
+# Import the Game class from the GuiHandler module and the Bot class from the gamebot module---
 from PyQt5.QtGui import QPixmap, QBrush, QPalette
 
 from components.GuiHandler import Game
